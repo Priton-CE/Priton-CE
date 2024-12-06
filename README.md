@@ -2,7 +2,10 @@
 Well hello there! My Name is Eric, aka. Priton.
 
 - 📝 Currently I'm a Computer Science and Electrical Engineering Student.
-- ⭐ My interests are: Aerospace, Embedded Systems, and Robotics
+- ⭐ My interests are:
+  - 🛰️ Aerospace
+  - ⚙️ Embedded Systems
+  - 🦾 Robotics
 - 🔭 I'm currently working on:
   - 🧪 Simulating an autonomous space vehicle
   - 🚀 Building a flight computer for a sounding rocket at my university
@@ -35,7 +38,7 @@ And specifically on GitHub:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priton-CE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 🛰️ Technologies I use
+## 🧰 Technologies I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
