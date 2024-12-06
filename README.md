@@ -3,7 +3,9 @@ Well hello there! My Name is Eric, aka. Priton.
 
 - 📝 Currently I'm a Computer Science and Electrical Engineering Student.
 - ⭐ My interests are: Aerospace, Embedded Systems, and Robotics
-- 🔭 I'm currently working on simulating an autonomous space vehicle in my spare time as well as building a flight computer for a sounding rocket at my university.
+- 🔭 I'm currently working on:
+  - 🧪 Simulating an autonomous space vehicle
+  - 🚀 Building a flight computer for a sounding rocket at my university
 - 💽 On Linux
 
 
