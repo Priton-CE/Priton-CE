@@ -13,9 +13,9 @@ Well hello there! My Name is Eric, aka. Priton.
 
 
 ## 👀 What you will find here
-On this account I keep stuff like personal projects that serve as my portfolio but also forks for open source contributions.
+On this account I keep stuff like personal projects that also serve as my portfolio but also forks for open source contributions.
 
-You can find my current projects in the pins below.
+You can find my current (public) projects in the pins below.
 
 ## 🪛 My Languages
 <div align="left">
